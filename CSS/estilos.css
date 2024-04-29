@@ -521,10 +521,10 @@ body{
 
 
 
-/*ESTILOS ESCRITORIO PARA PAGINA Registrarse */
+/*ESTILOS ESCRITORIO PARA PAGINA Registrarse ojo para github url va sin / */
 .bodyRegistrarse{
     height: 100vh;
-    background:linear-gradient(to right top, #24242473,#24242473),url("../assets/img/bg-register.jpg");
+    background:linear-gradient(to right top, #24242473,#24242473),url("assets/img/bg-register.jpg");
     background-size: cover;
     background-position: center;
     .headerRegistrarse{
